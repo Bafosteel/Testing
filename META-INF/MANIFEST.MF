@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: C:\Users\Артём\IdeaProjects\Kursach1\src\Main.java
+Main-Class: Main
+

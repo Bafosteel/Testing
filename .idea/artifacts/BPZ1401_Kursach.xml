@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BPZ1401_Kursach">
+    <output-path>$PROJECT_DIR$/out/artifacts/BPZ1401_Kursach</output-path>
+    <root id="archive" name="BPZ1401_Kursach.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
